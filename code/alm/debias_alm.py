@@ -115,7 +115,7 @@ train_val_loss_plot_path = os.path.join(ANALYSIS_PATH, "training_vs_validation_l
 kl_means_vars_plot_path = os.path.join(ANALYSIS_PATH, "kl_means_vars.png")
 lambda_X_plot_path = os.path.join(ANALYSIS_PATH, "lambda_X.png")
 
-TRAIN_TEMPLATES_PATH = "../../data/main_data/us_2024/templates_train.tsv"
+TRAIN_TEMPLATES_PATH = "../../data/templates_train.tsv"
     
 def create_folder(PATH):
     if not os.path.exists(PATH):
