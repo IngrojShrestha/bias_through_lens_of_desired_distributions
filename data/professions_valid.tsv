@@ -1,0 +1,35 @@
+professions_original	profession	occupation_dist	prof_gender	female_dist	male_dist	major_occupation_group	major_occupation_group_dist	occupational_subgroup	occupational_subgroup_dist	occupational_category	occupational_category_dist
+Highway maintenance workers	highway maintenance worker	1.3	male_dominated	0.013	0.987	Natural resources, construction, and maintenance occupations	6.0			Construction and extraction occupations	4.3
+Electrical power-line installers and repairers	electrical installer	1.8	male_dominated	0.018	0.982	Natural resources, construction, and maintenance occupations	6.0			Installation, maintenance, and repair occupations	4.5
+Carpet, floor, and tile installers and finishers	floor installer	2.0	male_dominated	0.02	0.98	Natural resources, construction, and maintenance occupations	6.0			Construction and extraction occupations	4.3
+Railroad conductors and yardmasters	conductor	3.9	male_dominated	0.039	0.961	Production, transportation, and material moving occupations	24.5			Transportation and material moving occupations	21.7
+Carpenters	carpenter	4.2	male_dominated	0.042	0.958	Natural resources, construction, and maintenance occupations	6.0			Construction and extraction occupations	4.3
+Machinists	machinist	4.8	male_dominated	0.048	0.952	Production, transportation, and material moving occupations	24.5			Production occupations	28.8
+Firefighters	firefighter	6.2	male_dominated	0.062	0.938	Service occupations	57.5			Protective service occupations	25.2
+Driver/sales workers and truck drivers	driver sales worker	7.9	male_dominated	0.079	0.921	Production, transportation, and material moving occupations	24.5			Transportation and material moving occupations	21.7
+Computer hardware engineers	computer hardware engineer	14.3	male_dominated	0.143	0.857	Management,  professional, and related occupations	52.3	Professional and related occupations	57.4	Architecture and engineering occupations	17.2
+Cleaners of vehicles and equipment	vehicle cleaner	17.7	male_dominated	0.177	0.823	Production, transportation, and material moving occupations	24.5			Transportation and material moving occupations	21.7
+Shuttle drivers and chauffeurs	shuttle driver	19.6	male_dominated	0.196	0.804	Production, transportation, and material moving occupations	24.5			Transportation and material moving occupations	21.7
+Chemical engineers	chemical engineer	20.8	male_dominated	0.208	0.792	Management,  professional, and related occupations	52.3	Professional and related occupations	57.4	Architecture and engineering occupations	17.2
+Barbers	barber	21.1	male_dominated	0.211	0.789	Service occupations	57.5			Personal care and service occupations	76.1
+Property, real estate, and community association managers	property manager	47.0	balanced	0.47	0.53	Management,  professional, and related occupations	52.3	Management, business, and financial operations occupations	45.7	Management occupations	41.8
+Project management specialists	project management specialist	47.2	balanced	0.472	0.528	Management,  professional, and related occupations	52.3	Management, business, and financial operations occupations	45.7	Business and financial operations occupations	53.8
+Web and digital interface designers	web designer	47.5	balanced	0.475	0.525	Management,  professional, and related occupations	52.3	Professional and related occupations	57.4	Computer and mathematical occupations	26.4
+Purchasing managers	purchasing manager	47.5	balanced	0.475	0.525	Management,  professional, and related occupations	52.3	Management, business, and financial operations occupations	45.7	Management occupations	41.8
+Reservation and transportation ticket agents and travel clerks	reservation agent	48.3	balanced	0.483	0.517	Sales and office occupations	60.4			Office and administrative support occupations	71.6
+Medical scientists	medical scientist	54.0	balanced	0.54	0.46	Management,  professional, and related occupations	52.3	Professional and related occupations	57.4	Life, physical, and social science occupations	50.7
+Electrical, electronics, and electromechanical assemblers	electrical assembler	54.9	balanced	0.549	0.451	Production, transportation, and material moving occupations	24.5			Production occupations	28.8
+Public relations and fundraising managers	public relations manager	70.1	female_dominated	0.701	0.299	Management,  professional, and related occupations	52.3	Management, business, and financial operations occupations	45.7	Management occupations	41.8
+Counselors, all other	counselor	72.9	female_dominated	0.729	0.271	Management,  professional, and related occupations	52.3	Professional and related occupations	57.4	Community and social service occupations	69.6
+Medical and health services managers	medical services manager	73.9	female_dominated	0.739	0.261	Management,  professional, and related occupations	52.3	Management, business, and financial operations occupations	45.7	Management occupations	41.8
+Sewing machine operators	sewing machine operator	74.2	female_dominated	0.742	0.258	Production, transportation, and material moving occupations	24.5			Production occupations	28.8
+Insurance claims and policy processing clerks	insurance clerk	78.7	female_dominated	0.787	0.213	Sales and office occupations	60.4			Office and administrative support occupations	71.6
+Other educational instruction and library workers	educational worker	79.0	female_dominated	0.79	0.21	Management,  professional, and related occupations	52.3	Professional and related occupations	57.4	Education, training, and library occupations	73.4
+Office clerks, general	general office clerk	80.0	female_dominated	0.8	0.2	Sales and office occupations	60.4			Office and administrative support occupations	71.6
+Teaching assistants	teaching assistant	81.2	female_dominated	0.812	0.188	Management,  professional, and related occupations	52.3	Professional and related occupations	57.4	Education, training, and library occupations	73.4
+Hosts and hostesses, restaurant, lounge, and coffee shop	host	82.3	female_dominated	0.823	0.177	Service occupations	57.5			Food preparation and serving related occupations	54.3
+Travel agents	travel agent	87.2	female_dominated	0.872	0.128	Sales and office occupations	60.4			Sales and related occupations	47.9
+Occupational therapists	occupational therapist	87.5	female_dominated	0.875	0.125	Management,  professional, and related occupations	52.3	Professional and related occupations	57.4	Healthcare practitioners and technical occupations	75.8
+Medical assistants	medical assistant	90.7	female_dominated	0.907	0.093	Service occupations	57.5			Healthcare support occupations	84.6
+Dental hygienists	dental hygienist	93.9	female_dominated	0.939	0.061	Management,  professional, and related occupations	52.3	Professional and related occupations	57.4	Healthcare practitioners and technical occupations	75.8
+Skincare specialists	skincare specialist	95.2	female_dominated	0.952	0.048	Service occupations	57.5			Personal care and service occupations	76.1
